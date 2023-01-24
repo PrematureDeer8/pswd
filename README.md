@@ -1,3 +1,10 @@
+How to run the bash script
+NOTE THAT THIS IS MUCH EASIER
+1)use the ./bash in the command prompt
+
+
+
+
 How to run EXE
 
 1) Navigate to the dist folder
